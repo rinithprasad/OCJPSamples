@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.samples.ocjp8.part1.OcjpSamplesApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.504 s - in com.samples.ocjp8.part1.OcjpSamplesApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.539 s - in com.samples.ocjp8.part1.OcjpSamplesApplicationTests

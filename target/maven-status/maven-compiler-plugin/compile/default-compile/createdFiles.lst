@@ -3,6 +3,7 @@ com/samples/ocjp8/part1/one/StreamsTest.class
 com/samples/ocjp8/part1/one/Network.class
 com/samples/ocjp8/part1/one/Dog.class
 com/samples/ocjp8/part1/four/McGee.class
+com/samples/ocjp8/part1/two/PlayerPiece.class
 com/samples/ocjp8/part1/one/Lambda$MathOperation.class
 com/samples/ocjp8/part1/five/Infinity.class
 com/samples/ocjp8/part1/one/IfaceTest.class
@@ -13,6 +14,7 @@ com/samples/ocjp8/part1/one/DontBoilFrogs.class
 com/samples/ocjp8/part1/one/MethodReference.class
 com/samples/ocjp8/part1/five/Ebb.class
 com/samples/ocjp8/part1/one/OptionalTest.class
+com/samples/ocjp8/part1/two/GameShape.class
 com/samples/ocjp8/part1/OcjpSamplesApplication.class
 com/samples/ocjp8/part1/one/Zebra.class
 com/samples/ocjp8/part1/one/Mixer.class
@@ -47,6 +49,7 @@ com/samples/ocjp8/part1/one/I1.class
 com/samples/ocjp8/part1/four/Spock.class
 com/samples/ocjp8/part1/one/Myinterface.class
 com/samples/ocjp8/part1/one/Tenor.class
+com/samples/ocjp8/part1/two/TestShapes.class
 com/samples/ocjp8/part1/five/Flip2.class
 com/samples/ocjp8/part1/one/Lambda.class
 com/samples/ocjp8/part1/one/Happy.class
